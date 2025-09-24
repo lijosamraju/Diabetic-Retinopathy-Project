@@ -30,7 +30,7 @@ After training for 15 epochs, the model achieved a **Validation Accuracy of 93%*
 The model's performance on the unseen validation set is summarized below:
 
 **Confusion Matrix:**
-*(Screenshot your confusion matrix and place it here)*
+!(https://github.com/lijosamraju/Diabetic-Retinopathy-Project/blob/main/confusion_matrix.png?raw=true)
 
 **Classification Report:**
 | Class | Precision | Recall | F1-Score |
@@ -48,4 +48,5 @@ The model's performance on the unseen validation set is summarized below:
 2. Download the `train_images.zip` and `train.csv` from the [Kaggle competition page](https://www.kaggle.com/c/aptos2019-blindness-detection/data).
 3. Unzip the images into a `train_images` folder in the project directory.
 4. Ensure you have the required libraries installed (`pip install tensorflow scikit-learn pandas matplotlib seaborn tqdm`).
+
 5. Open and run the `.ipynb` file in Jupyter Notebook.
