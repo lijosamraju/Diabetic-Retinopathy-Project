@@ -30,6 +30,7 @@ After training for 15 epochs, the model achieved a **Validation Accuracy of 93%*
 The model's performance on the unseen validation set is summarized below:
 
 **Confusion Matrix:**
+
 ![Confusion Matrix for DR Detection](https://github.com/lijosamraju/Diabetic-Retinopathy-Project/blob/main/confusion_matrix.png?raw=true)
 
 **Classification Report:**
@@ -50,4 +51,5 @@ The model's performance on the unseen validation set is summarized below:
 4. Ensure you have the required libraries installed (`pip install tensorflow scikit-learn pandas matplotlib seaborn tqdm`).
 
 5. Open and run the `.ipynb` file in Jupyter Notebook.
+
 
